@@ -23,7 +23,7 @@ esfera= 2 *Math.PI * raio;
 Console.WriteLine("O valor da esfera é : " + esfera);
 area= Math.PI * (Math.Pow(raio, 2));
 Console.WriteLine("O valor da area é : " + area);
-volume= (4/3) * Math.PI * (Math.Pow(raio, 3)); 
+volume= 4 * Math.PI * Math.Pow(raio, 3)/3; 
 Console.WriteLine("O valor do volume é : " + volume);
 
 /* 8.Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a 
