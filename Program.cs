@@ -23,7 +23,7 @@ double n1, n2, p2, p3, MP;
             Console.WriteLine("Considerando peso 2 para a primeira nota e peso 3 para a segunda nota.");
             Console.WriteLine("A média ponderada será: {0}", MP);
 
-/* 3).Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, 
+/* 3.Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, 
 sabendo-se que este sofreu um desconto de 10%. */
   double preco, desconto, novopreco;
 
